@@ -1,0 +1,15 @@
+/* AI Check Button Styles */
+.aicheck-button-injected {
+    margin: 10px 0;
+}
+
+.aicheck-button-container {
+    margin: 15px 0;
+    text-align: center;
+}
+
+/* Modal feedback styling */
+.modal-body {
+    max-height: 70vh;
+    overflow-y: auto;
+}
